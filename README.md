@@ -1,3 +1,5 @@
+#Description
+
 Staffline Removal using Autoencoder Architecture is a project aimed at automatically removing the horizontal lines found in scanned or digitized images of music sheets. This project utilizes a powerful neural network called an autoencoder, which is trained to recognize and eliminate these lines while preserving the integrity of the rest of the musical notation.
 
 # Project Overview 
